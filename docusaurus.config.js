@@ -135,7 +135,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Hak Cipta © ${new Date().getFullYear()} Gratisan.`,
+        copyright: `Dibuat dengan ❤️ ${new Date().getFullYear()} Gratisan.`,
       },
       prism: {
         theme: prismThemes.github,

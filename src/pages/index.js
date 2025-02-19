@@ -44,7 +44,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Temukan Produk Digital dan Info Gratis`}
+      title={`Gratis! Template Google Sheets. Ebook. Aplikasi`}
       description={siteConfig.tagline}
     >
       <HomepageHeader />
