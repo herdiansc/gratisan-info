@@ -4,46 +4,25 @@ sidebar_position: 1
 hide_table_of_contents: true
 ---
 
-# Selamat Datang
+# Selamat Datang di Gratisan - Sumber Informasi Produk dan Layanan Gratis Terlengkap!
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Temukan berbagai penawaran menarik dan bermanfaat dari seluruh penjuru internet, semuanya terangkum dalam satu tempat. Kami hadir untuk membantu Anda menemukan produk dan layanan gratis yang sesuai dengan kebutuhan Anda, mulai dari software, aplikasi, e-book, musik, hingga promo menarik lainnya.
 
-## Getting Started
+## Jelajahi beragam kategori produk dan layanan gratis yang kami tawarkan:
 
-Get started by **creating a new site**.
+- Software & Aplikasi: Dapatkan software dan aplikasi gratis untuk meningkatkan produktivitas, kreativitas, atau hiburan Anda.
+- E-book & Literatur: Unduh berbagai e-book dan materi bacaan gratis untuk menambah wawasan dan pengetahuan Anda.
+- Musik & Hiburan: Nikmati musik dan hiburan gratis untuk menemani aktivitas Anda sehari-hari.
+- Promo & Diskon: Manfaatkan berbagai promo dan diskon menarik untuk menghemat pengeluaran Anda.
+- Lainnya: Temukan penawaran menarik lainnya seperti template gratis, desain gratis, dan masih banyak lagi.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Mengapa Anda Harus Mengunjungi Situs Web Kami?
 
-### What you'll need
+- Informasi Terkini: Kami selalu memperbarui informasi tentang produk dan layanan gratis terbaru.
+- Terpercaya: Kami hanya menyajikan informasi dari sumber-sumber terpercaya.
+- Mudah Dicari: Navigasi yang mudah dan fitur pencarian yang canggih untuk memudahkan Anda menemukan yang Anda butuhkan.
+- Hemat Waktu: Tidak perlu lagi mencari informasi di berbagai situs web, semuanya ada di sini.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Jangan lewatkan kesempatan emas ini! Kunjungi Gratisan sekarang dan temukan berbagai produk dan layanan gratis yang akan membuat hidup Anda lebih mudah dan menyenangkan.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Kata kunci: produk gratis, layanan gratis, download gratis, promo gratis, diskon gratis, software gratis, aplikasi gratis, e-book gratis, musik gratis, hiburan gratis, Gratisan.
