@@ -15,23 +15,23 @@ function HomepageHeader() {
       <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title text--uppercase">
-          {siteConfig.title}
+          Kumpulan Hal-Hal Gratis
         </Heading>
         <p className="hero__subtitle text--capitalize">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className={`button button--primary button--lg col col--3`}
-            to="/produk/intro"
+            to="/gratis/intro"
           >
-            <span className="text--light">Produk</span>
+            <span className="text--light">Lihat Info Gratisan</span>
           </Link>
-          <span className="col col--1">atau</span>
+          {/* <span className="col col--1">atau</span>
           <Link
             className="button button--primary button--lg  col col--3 text--light"
             to="/artikel"
           >
             <span className="text--light">Info</span>
-          </Link>
+          </Link> */}
         </div>
       </div>
     </header>

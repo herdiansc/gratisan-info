@@ -30,6 +30,7 @@
 } */
 
 :root {
+  --ifm-background-color: white;
   --ifm-font-color-base: #333;
   --ifm-link-color: var(--ifm-font-color-base);
   --ifm-heading-color: var(--ifm-font-color-base);

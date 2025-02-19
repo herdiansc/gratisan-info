@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Gratisan',
-  tagline: 'Temukan Informasi Produk Digital Gratis dan Artikel Tentang Berbagai Macam Tips dan Trik Gratisan. Bebas Tanpa Biaya.',
+  tagline: 'Temukan Template Google Sheets Gratis. Ebook Gratis, dll. Semua Legal dan Bebas Tanpa Biaya.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -43,29 +43,25 @@ const config = {
       ({
         docs: {
           breadcrumbs: true,
-          routeBasePath: "/produk",
+          routeBasePath: "/gratis",
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          routeBasePath: "/artikel",
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        // blog: {
+        //   routeBasePath: "/artikel",
+        //   showReadingTime: true,
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
+        //   onInlineTags: 'warn',
+        //   onInlineAuthors: 'warn',
+        //   onUntruncatedBlogPosts: 'warn',
+        // },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -80,7 +76,7 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         hideOnScroll: true,
-        title: 'My Site',
+        title: 'Gratisan',
         // logo: {
         //   alt: 'My Site Logo',
         //   src: 'img/logo.svg',
@@ -92,8 +88,8 @@ const config = {
           //   position: 'left',
           //   label: 'Produk',
           // },
-          {to: '/produk/intro', label: 'Produk', position: 'left'},
-          {to: '/artikel', label: 'Artikel', position: 'left'},
+          // {to: '/gratis/intro', label: 'Cek', position: 'left'},
+          // {to: '/artikel', label: 'Artikel', position: 'left'},
         ],
       },
       footer: {
