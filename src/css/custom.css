@@ -40,3 +40,20 @@
   --fallback-b1: #ffffff;
   --b1: 100% 0 0;
 }
+
+.theme-doc-sidebar-container {display: none !important;}
+@media (min-width: 997px) {
+  .theme-doc-sidebar-container + main {
+    margin: 0 auto;
+    width: 50% !important;
+    flex-grow: 0;
+  }
+  .theme-doc-sidebar-container + main img {
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+.card-new-color {
+  background-color: var(--ifm-color-success-lightest);
+}
